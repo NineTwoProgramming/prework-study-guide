@@ -1,2 +1,2 @@
 # prework-study-guide
-personal study guide
+Study guide for Web Developers
