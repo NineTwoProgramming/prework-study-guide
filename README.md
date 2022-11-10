@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-You can review the notes in each section to better understand what was taught during the bootcamp prework. For a suggestion on what to study first, you can open up the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows).
+You can review the notes in each section to better understand what was taught during the bootcamp prework. For a suggestion on what to study first, you can open up the Chrome DevTools by pressing ```Command+Option+I (macOS)``` or ```Control+Shift+I (Windows)```.
 
 The console should open and there will be a list of topics that we learned during the prework. It is followed by a suggestion if you are unsure on what to study first. 
 
