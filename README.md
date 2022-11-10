@@ -2,7 +2,7 @@
 
 ## Description
 
-The struggle that I encountered early on in the prework made me realize that there may be other people who are also struggling. This has lead me to create a study guide to help both new and current students that may be struggling. 
+The struggle that I encountered early on in the prework made me realize that there may be other people who are also struggling. This has lead me to create a study guide to help both new and current students that are having a difficult time with the content. 
 
 This application was created to help students that are/were going through the bootcamp Prework. It provides notes on the different subjects taught during the bootcamp Prework and the students will have sufficient information moving forward. 
 
